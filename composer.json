@@ -1,0 +1,24 @@
+{
+    "name": "kovey/app-cronjob",
+    "type": "project",
+    "description": "The Kovey Framework",
+    "keywords": [
+        "framework",
+        "kovey",
+        "app-cronjob",
+        "cronjob",
+        "php"
+    ],
+    "require": {
+        "php": "^8.0",
+        "ext-swoole": "^4.6.0",
+        "kovey/cronjob": "^1.0",
+        "kovey/logger": "^2.0",
+        "kovey/rpc-client": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cron\\": "src/"
+        }
+    }
+}
