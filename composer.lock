@@ -66,16 +66,16 @@
         },
         {
             "name": "kovey/cronjob",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kovey/cronjob.git",
-                "reference": "e09c9d2389983c998bd4f02a84361159bd398df2"
+                "reference": "3f512e9ecb959a44d78f38187f7c13d47dcfc829"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kovey/cronjob/zipball/e09c9d2389983c998bd4f02a84361159bd398df2",
-                "reference": "e09c9d2389983c998bd4f02a84361159bd398df2",
+                "url": "https://api.github.com/repos/kovey/cronjob/zipball/3f512e9ecb959a44d78f38187f7c13d47dcfc829",
+                "reference": "3f512e9ecb959a44d78f38187f7c13d47dcfc829",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -104,9 +104,9 @@
             ],
             "support": {
                 "issues": "https://github.com/kovey/cronjob/issues",
-                "source": "https://github.com/kovey/cronjob/tree/v1.0.1"
+                "source": "https://github.com/kovey/cronjob/tree/v1.0.2"
             },
-            "time": "2021-07-15T09:37:36+00:00"
+            "time": "2021-07-15T13:04:10+00:00"
         },
         {
             "name": "kovey/event",
