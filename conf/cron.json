@@ -1,5 +1,6 @@
 {
     "app_id": "bca0169c909f4fee21f501124b3ce137",
+    "node_name": "demo",
     "servers": [
         {
             "host": "192.168.0.59",
