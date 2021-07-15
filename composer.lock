@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4eb1e464875d8bc21fad60fbb7bf4ad8",
+    "content-hash": "2fcdfbd05a68e7d005c458d0d97ccc7c",
     "packages": [
         {
             "name": "kovey/container",
@@ -66,16 +66,16 @@
         },
         {
             "name": "kovey/cronjob",
-            "version": "v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kovey/cronjob.git",
-                "reference": "a992a485a15b063530e7009735fdaf6085ca7fb2"
+                "reference": "e09c9d2389983c998bd4f02a84361159bd398df2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kovey/cronjob/zipball/a992a485a15b063530e7009735fdaf6085ca7fb2",
-                "reference": "a992a485a15b063530e7009735fdaf6085ca7fb2",
+                "url": "https://api.github.com/repos/kovey/cronjob/zipball/e09c9d2389983c998bd4f02a84361159bd398df2",
+                "reference": "e09c9d2389983c998bd4f02a84361159bd398df2",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -104,9 +104,9 @@
             ],
             "support": {
                 "issues": "https://github.com/kovey/cronjob/issues",
-                "source": "https://github.com/kovey/cronjob/tree/v1.0.0"
+                "source": "https://github.com/kovey/cronjob/tree/v1.0.1"
             },
-            "time": "2021-07-14T01:58:45+00:00"
+            "time": "2021-07-15T09:37:36+00:00"
         },
         {
             "name": "kovey/event",
