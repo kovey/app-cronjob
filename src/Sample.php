@@ -1,8 +1,10 @@
 <?php
 /**
- * @description
+ * @description a sample cronjob
  *
- * @package
+ * @run /php/to/php /path/to/cron/start.php --class=Sample --offset=100
+ *
+ * @package Cronjob
  *
  * @author kovey
  *

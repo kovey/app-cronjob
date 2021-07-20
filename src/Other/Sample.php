@@ -1,6 +1,8 @@
 <?php
 /**
- * @description
+ * @description a sample other cronjob
+ *
+ * @run /php/to/php /path/to/cron/start.php --class=Other\\Sample --offset=100
  *
  * @package
  *
